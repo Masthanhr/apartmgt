@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+
+.hoverwell:hover{
+    background-color:cornflowerblue;
+    cursor: pointer;
+}
+
+.well{
+    background-color:rgb(73, 73, 122);
+}
+
+.container{
+    padding-top: 10px;
+}
+body.container{
+    background-color:rgb(163, 158, 190);
+    /* background-image:url("assets/pic2.jpg"); */
+}

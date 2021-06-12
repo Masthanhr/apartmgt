@@ -1,0 +1,10 @@
+.nav-link {
+  padding: 10px 25px;
+  cursor: pointer;
+  color: #fff;
+  border-radius: 15px;
+}
+
+.nav-link:hover {
+  background-color: #6495ed;
+}
